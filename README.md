@@ -50,6 +50,7 @@ RF model.R
 Word cloud generated from textual features
 
 <img src="https://github.com/lyc1005/Real-Estate-Appraisal-Model-Based-on-Random-Forest-Algorithm/image/district.png">
+![shanghai](Real-Estate-Appraisal-Model-Based-on-Random-Forest-Algorithm/image/shanghai.jpeg)
 
 Average unit price for each district of Shanghai
 
